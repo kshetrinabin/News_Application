@@ -1,0 +1,1 @@
+enum SourceFilter{bbcNews, cnnNews, alzeraNews,abcNews}
