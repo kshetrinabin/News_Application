@@ -1,4 +1,6 @@
-# news_app
+# About news_app
+News app is basically developed with utilizing of free News Restful API's with fetching some specific features like 
+top headlines , categorized source media news , category of news , description of news etc.
 
 A new Flutter project.
 
